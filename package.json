@@ -1,0 +1,15 @@
+{
+  "name": "kahoot-botter",
+  "version": "1.0.0",
+  "description": "A kahoot botter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Vivaan Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
