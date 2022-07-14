@@ -1,6 +1,7 @@
 # kahoot-spam-botter
 
 Kahoot spam botter to use in your school kahoot games!
+Working as of 7/14/2022 - will be updated to work if doesn't in future.
 
 To run, you must have Node JS installed. Then:
 
